@@ -13,6 +13,8 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(string)
-  if string !=
+  if string != string.upaces
+    return "HUH?! SPEAK UP, SONNY!"
+  elsif string == ""
   end
 end
