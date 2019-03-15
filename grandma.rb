@@ -14,6 +14,8 @@
 
 def speak_to_grandma(string)
   if string
+    return "HUH?! SPEAK UP, SONNY!"
+    elsif string.upaces
     return ""
     
 end
